@@ -1,0 +1,30 @@
+.headerWrapper {
+  max-width: 1280px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 16px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 80px;
+}
+
+.navBar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.navBar nav ul {
+  display: flex;
+  align-items: center;
+}
+.navBar nav ul li {
+  list-style: none;
+}
+.navBar nav ul li a {
+  text-decoration: none;
+  padding: 16px;
+  color: black;
+  font-weight: 400;
+}

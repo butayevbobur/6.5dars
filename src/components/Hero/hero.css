@@ -1,0 +1,38 @@
+.HeroWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 350px;
+}
+
+.hero_description {
+  width: 470px;
+}
+
+.hero_description h3 {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 39px;
+  text-align: left;
+  margin-bottom: 16px;
+}
+
+.hero_description p {
+  margin-bottom: 16px;
+}
+.hero_img img {
+  border-radius: 5px;
+  margin-bottom: 136px;
+}
+.btn {
+  margin-bottom: 100px;
+  border: #00bafc;
+  background-color: #00bafc;
+  font-weight: 700;
+  color: white;
+  padding: 8px 16px 8px 16px;
+  gap: 10px;
+  border-radius: 5px 5px 5px 5px;
+  opacity: 0px;
+  cursor: pointer;
+}

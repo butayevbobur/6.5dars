@@ -1,0 +1,35 @@
+.system {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  margin-top: 24px;
+  justify-content: center;
+  margin-bottom: 24px;
+}
+
+.system h4 {
+  text-align: left;
+}
+
+.system_p {
+  width: 460px;
+  text-align: left;
+}
+.system2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+
+.system2_wrap {
+  display: flex;
+  text-align: left;
+  align-items: center;
+  flex-direction: column;
+}
+
+.system_h4 {
+  text-align: left;
+  margin-left: -192px;
+}
